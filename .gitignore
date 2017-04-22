@@ -1,0 +1,8 @@
+# Generated code
+/index.js
+/lib
+
+node_modules
+.DS_Store
+npm-debug.log
+_book
